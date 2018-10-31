@@ -1,0 +1,101 @@
+[
+  {
+    "item": {
+      "name": "minecraft:milk_bucket",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  // ANIMANIA
+
+  {
+    "item": {
+      "name": "animania:milk_bottle",
+      "metadata": 0
+    },
+    "thirst": 7,
+    "hydration": 1.2,
+    "poisonChance": 0.0
+  },
+  // RUSTIC
+
+  {
+    "item": {
+      "name": "rustic:fluid_bottle",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "rustic:elixir",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+
+  // BOTANIA
+
+  {
+    "item": {
+      "name": "botania:brewvial",
+      "metadata": 0
+    },
+    "thirst": 4,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "botania:brewflask",
+      "metadata": 0
+    },
+    "thirst": 6,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  // SOUPS
+
+  {
+    "item": {
+      "name": "minecraft:beetroot_soup",
+      "metadata": 0
+    },
+    "thirst": 3,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "animania:truffle_soup",
+      "metadata": 0
+    },
+    "thirst": 3,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "minecraft:mushroom_stew",
+      "metadata": 0
+    },
+    "thirst": 3,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "minecraft:rabbit_stew",
+      "metadata": 0
+    },
+    "thirst": 3,
+    "hydration": 0.5,
+    "poisonChance": 0.0
+  }
+]

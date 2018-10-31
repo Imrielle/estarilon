@@ -1,0 +1,80 @@
+{
+  "dependencies": "thaumcraft",
+  "populate": {
+    "quartz_ore": {
+      "distribution": "uniform",
+      "generator": {
+        "block": [
+          {
+            "name": "thaumcraft:ore_quartz",
+            "weight": 100
+          }
+        ],
+        "material": "minecraft:stone",
+        "cluster-size": 8
+      },
+      "cluster-count": 1,
+      "min-height": 10,
+      "max-height": 72,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "blacklist",
+        "value": [
+          -1,
+          1
+        ]
+      }
+    },
+    "amber_ore": {
+      "distribution": "uniform",
+      "generator": {
+        "block": [
+          {
+            "name": "thaumcraft:ore_amber",
+            "weight": 100
+          }
+        ],
+        "material": "minecraft:stone",
+        "cluster-size": 4
+      },
+      "cluster-count": 2,
+      "min-height": 50,
+      "max-height": 92,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "blacklist",
+        "value": [
+          -1,
+          1
+        ]
+      }
+    },
+    "cinnabar_ore": {
+      "distribution": "uniform",
+      "generator": {
+        "block": [
+          {
+            "name": "thaumcraft:ore_cinnabar",
+            "weight": 100
+          }
+        ],
+        "material": "minecraft:stone",
+        "cluster-size": 8
+      },
+      "cluster-count": 2,
+      "min-height": 40,
+      "max-height": 92,
+      "retrogen": "true",
+      "biome": "all",
+      "dimension": {
+        "restriction": "blacklist",
+        "value": [
+          -1,
+          1
+        ]
+      }
+    }
+  }
+}

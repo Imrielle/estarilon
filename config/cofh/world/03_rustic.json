@@ -1,0 +1,28 @@
+{
+  "dependencies": "rustic",
+  "populate": {
+    "slate_plate": {
+      "distribution": "uniform",
+      "generator": {
+        "type": "plate",
+        "block": "rustic:slate",
+        "material": "minecraft:stone",
+        "radius": 21,
+        "height": 4
+      },
+      "cluster-count": 1,
+      "chunk-chance": 50,
+      "min-height": 25,
+      "max-height": 50,
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "blacklist",
+        "value": [
+          -1,
+          1
+        ]
+      }
+    }
+  }
+}

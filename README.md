@@ -26,8 +26,7 @@ While not neccessary per-se, its entended to be used with a medieval style resou
 ### Magic
 It wouldn't be Medieval without magic, right? Yeah, yeah, sure... magic didn't actually exist in ye olden days - but people thought it did. So, for magic we have:
 * [Embers](https://minecraft.curseforge.com/projects/embers-rekindled): For the technomancers out there, we have Embers. Not only is the magic itself well thought out, but Embers also adds in things we'd be lacking, otherwise, like metals.
-* [Thaumcraft](https://minecraft.curseforge.com/projects/thaumcraft): Not a tecnomancer? We've got you, wizards. Thaumcraft adds a really cool magic system, and even more alternate automation, if Embers, Minecolonies and AW2 don't suit a user. Speaking of automation...
-* [Botania](https://minecraft.curseforge.com/projects/botania) Rather be more of a druid? Botania is a tech mod disguised as a magic mod, and its all about those flowers. You can be a flower loving tree hugger, and still have access to an extremely deep, well done automation system. Plus, boatloads of new flowers to decorate with.
+* [Thaumcraft](https://minecraft.curseforge.com/projects/thaumcraft): Not a tecnomancer? We've got you, wizards. Thaumcraft adds a really cool magic system, and even more alternate automation, if Embers, Minecolonies and AW2 don't suit a user.
 
 ### Aesthetics
 I like pretty things, so we've got pretty things galore.

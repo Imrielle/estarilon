@@ -21,7 +21,6 @@ While not neccessary per-se, its entended to be used with a medieval style resou
 [Vanilla Food Pantry](https://minecraft.curseforge.com/projects/vanillafoodpantry-mod)
 * I decided to go with a 'Vanilla Enhanced' feel in regards to food. The reasons for this are manifold:
   * I'm aware most modpacks use Pam's instead. This isn't a problem, generally speaking, but... Pam's adds so much that its hard to fit into a modpack that strives to be integrated and cohesive. VFP doesn't.
-  * 
 
 ### Magic
 It wouldn't be Medieval without magic, right? Yeah, yeah, sure... magic didn't actually exist in ye olden days - but people thought it did. So, for magic we have:

@@ -40,26 +40,6 @@
     "poisonChance": 0.0
   },
 
-  // BOTANIA
-
-  {
-    "item": {
-      "name": "botania:brewvial",
-      "metadata": 0
-    },
-    "thirst": 4,
-    "hydration": 0.7,
-    "poisonChance": 0.0
-  },
-  {
-    "item": {
-      "name": "botania:brewflask",
-      "metadata": 0
-    },
-    "thirst": 6,
-    "hydration": 0.7,
-    "poisonChance": 0.0
-  },
   // SOUPS
 
   {

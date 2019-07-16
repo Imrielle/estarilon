@@ -8,18 +8,7 @@
     "hydration": 0.7,
     "poisonChance": 0.0
   },
-  // ANIMANIA
-
-  {
-    "item": {
-      "name": "animania:milk_bottle",
-      "metadata": 0
-    },
-    "thirst": 7,
-    "hydration": 1.2,
-    "poisonChance": 0.0
-  },
-  // RUSTIC
+    // RUSTIC
 
   {
     "item": {
@@ -39,21 +28,11 @@
     "hydration": 0.7,
     "poisonChance": 0.0
   },
-
-  // SOUPS
+    // SOUPS
 
   {
     "item": {
       "name": "minecraft:beetroot_soup",
-      "metadata": 0
-    },
-    "thirst": 3,
-    "hydration": 0.5,
-    "poisonChance": 0.0
-  },
-  {
-    "item": {
-      "name": "animania:truffle_soup",
       "metadata": 0
     },
     "thirst": 3,
